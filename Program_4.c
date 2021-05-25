@@ -7,8 +7,9 @@
 int main()
 {
 //Write your code below this line
+int L1=10,L2=20;
 
-
+printf("The value of L1 and L2 is %d and %d",L1,L2);
 
 return 0;
 }
